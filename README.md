@@ -4,6 +4,7 @@ Sipho is a Software Developer at the Department of Home Affairs (DHA). He is wor
 As his first task, Ms Baloyi gives Sipho an opportunity of participating in the Identification Document (ID) Verification Project (ID-VP).
 The task given to Sipho is to develop a web application that will determine whether a given ID is valid or not. The criteria for a valid ID is based on the ID number.
 So the SA ID has the following features:
+
 • It is 13 digits long.
 • The first six digits represent the date of birth (YYMMDD).
 • The next four digits represent the gender of a person. Females are allocated the the range 0000-4999, and males 5000-9999).
